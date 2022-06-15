@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya1612
 - 👀 I’m interested in web development and Software development.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning MERN Full Stack.
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 Reach me through my mail Vkassurya@gmail.com
 
