@@ -1,8 +1,8 @@
 Hi there 👋, I am Surya
 
+Currently working on React and Node (Express.js) + MongoDB (MERN STACK DEVELOPER )
 
-
-Skills: JAVA | SQL | HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP
+Skills: JAVA | SQL | HTML | CSS | JAVASCRIPT | BOOTSTRAP | REACT | NODE | EXPRESS | MONGODB | MATERIAL UI
 
 
 <!---
